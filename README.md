@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p>Hi i am Vishal Verma, a Software developer .  I have more than 1 years of experience in designing and developing applications. I also have a solid foundation in backend development.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermavishal1999&label=Profile%20views&color=0e75b6&style=flat" alt="vermavishal1999" /> </p>
+<p> I have more than 2+  years of experience in designing and developing applications. I also have a solid foundation in  frontend  and backend development.</p>
+<p align="left"> <img src="https://twitter.com/Mk__Kushwaha" /> </p>
 
 
 
