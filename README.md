@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Mk__Kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishallucknavi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mukesh-kushwaha-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-verma11021999/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukesh-kushwaha-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.li21999/" height="30" width="40" /></a>
 <a href="https://leetcode.com/mukeshkushwaha918/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalverma11021999" height="30" width="40" /></a>
-<a  href="https://auth.geeksforgeeks.org/user/mukeshkushwaha918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yagamilight1999" height="30" width="40" /></a>
+<a  href="https://www.geeksforgeeks.org/user/mukeshkushwaha1189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yagamilight1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kk&" alt="vermavishal1999" /></p>
 <img align="center" src="https://github.com/vermavishal1999/vermavishal1999/blob/main/header_.png?raw=true" alt="header">
-<a href="https://mukesh-kk.github.io/PersonalCV/about.html" target="_blank"> More </a>
+<a href="https://mukesh-kk.github.io/PersonalCV/about.html" target="blank"> More </a>
 
