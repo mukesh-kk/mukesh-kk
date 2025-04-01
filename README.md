@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-kushwaha-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.li21999/" height="30" width="40" /></a>
-<a href="https://leetcode.com/mukeshkushwaha918/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ma11021999" height="30" width="40" /></a>
+<a href="https://leetcode.com/tough_crew/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ma11021999" height="30" width="40" /></a>
 <a  href="https://www.geeksforgeeks.org/user/mukeshkushwaha1189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yagamilight1999" height="30" width="40" /></a>
 <a  href="https://www.instagram.com/tough_crew/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="yagamilight1999" height="30" width="30" style="margin-left: 20px" /></a>
 </p>
