@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-kk&show_icons=true&locale=en" alt="vermavishal1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-kk&" alt="vermavishal1999" /></p>
+
 <img align="center" src="https://github.com/vermavishal1999/vermavishal1999/blob/main/header_.png?raw=true" alt="header">
 <a href="https://mukesh-kk.github.io/PersonalCV/about.html" target="blank"> More </a>
 
